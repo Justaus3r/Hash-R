@@ -14,5 +14,7 @@ it can also retrieve sam file.
 - SHA384
 - SHA512
 - NTLM
+### Note:
+Please disable your anti-virus software before using this tool becuase it might delete some file's and the tool won't work properly.there is no harm in this tool but if you don't believe me then you are welcomed not to use this tool.
 ### Contributions:
 All contributions are welcomed.if you have an suggestion for improvement you can mail me at x-neron@pm.me. you can fork this repo and pull request's to improve it.
