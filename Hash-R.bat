@@ -1,4 +1,5 @@
 @echo off 
+title Hash-R
 color 0b
 cd /d "%~dp0"
 ::you can add more banner's in banner directory then increase the maxvalue accordingly
