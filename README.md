@@ -14,6 +14,5 @@ it can also retrieve sam file.
 - SHA384
 - SHA512
 - NTLM
-<hr>
 ### Contributions:
-All contributions are welcomed.if you have an suggestion for improvement you can mail me at x-neron@pm.me.you can fork this repo and pull request's to improve it.
+All contributions are welcomed.if you have an suggestion for improvement you can mail me at x-neron@pm.me. you can fork this repo and pull request's to improve it.
