@@ -17,6 +17,9 @@ it can also retrieve sam file.there  is a version of mimikatz to dump hashes fro
 - Retrieve sam file from registry.
 ### Note:
 Please disable your anti-virus software before using this tool becuase it might delete some file's and the tool won't work properly.there is no harm in this tool but if you don't believe me then you are welcomed not to use this tool.
+### limitations/known issues:
+- Issues with some special character's in a file.
+- Can crack 1 hash at a time(to crack multiple hashes you would need to start another session).
 ### Disclaimer:
 i am not responsible for your naughty work!
 ### Bug Report:
