@@ -25,4 +25,4 @@ i am not responsible for your naughty work!
 ### Bug Report:
 Report a issue at https://github.com/Justaus3r/Hash-R/issues
 ### Contributions:
-All contributions are welcomed.if you have an suggestion for improvement you can mail me at x-neron@pm.me. you can fork this repo and pull request's to improve it.
+All contributions are welcomed.if you have an suggestion for improvement you can mail me at x-neron@pm.me. you can fork this repo and pull request's for improvement.
