@@ -5,6 +5,8 @@
 
 Hash-R is a command line tool that can be used to crack various hashes such as md2,md4,sha1 and much more.
 it can also retrieve sam file.there  is a version of mimikatz to dump hashes from SAM file.
+#### Screenshot:
+![alt text](https://drive.google.com/uc?export=download&id=1Nazpx6g5g50CW8O-ZhuR0PUyLTrEehif)
 #### Hashes supported/features:
 - MD2
 - MD4
