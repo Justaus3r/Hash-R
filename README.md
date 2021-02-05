@@ -2,6 +2,7 @@
 ## Hash-R
 ![License](https://img.shields.io/badge/License-GPL3.0-<brightgreen>)
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-<brightgreen>)
+![Status](https://img.shields.io/badge/Status-Alive-<brightgreen>)
 
 Hash-R is a command line tool that can be used to crack various hashes such as md2,md4,sha1 and much more.
 it can also retrieve sam file.there  is a version of mimikatz to dump hashes from SAM file.
@@ -25,10 +26,11 @@ Please disable your anti-virus software before using this tool becuase it might 
 - Can crack only 1 hash at a time(to crack multiple hashes you would need to start another session)/no Multithreading.
 ### Changelog:
 
-| Date          | Comment          | 
+| Date:         | Comment:         | 
 | ------------- |:-------------:   | 
 | 22-jan-2021   | Initial Release  | 
 | 5-feb-2021    | Some small fixes | 
+
  
 ### Disclaimer:
 i am not responsible for your naughty work!
