@@ -286,14 +286,17 @@ if '%errorlevel%' == '0' rmdir "%windir%\AdminCheck" & call :gotPrivileges else 
 echo Invoking Uac for Privilege Escalation..
 call "%~dp0runadmin.vbs" "%~dp0retsam.bat" 
 exit
+:gotPrivileges
+call "%~dp0retsam.bat" 
+exit
 :MyMainMenu-J Help
 cls
-"%~dp0Exo.exe" /M:2:1 /C:0a /T:Help: && echo.
+"%~dp0Exo.exe" /M:2:1 /C:0b /T:Help: && echo. && echo.
 "%~dp0Exo.exe" /M:2:1 /C:0a /T:First choose the hash you want to crack. && echo.
 "%~dp0Exo.exe" /M:2:1 /C:0a /T:then give the path for password file. && echo.
 "%~dp0Exo.exe" /M:2:1 /C:0a /T:then edit the target hash file in which target hash will be stored && echo.
 "%~dp0Exo.exe" /M:2:1 /C:0a /T:tool will start a bruteforce attack to crack the hash. && echo.
-"%~dp0Exo.exe" /M:2:1 /C:0a /T:Please note that it depends on your luck and password file and time to crack the hash.  && echo.
+"%~dp0Exo.exe" /M:2:1 /C:0a /T:Please note that it depends on your luck, password file and time to crack the hash.  && echo.
 pause
 exit
 :MyMainMenu-Q Quit
