@@ -28,7 +28,6 @@ Please disable your anti-virus software before using this tool becuase it might 
 - Initial Release.
 ##### 5-feb-2021
 - Some small fixes.
-<hr>
 ### Disclaimer:
 i am not responsible for your naughty work!
 ### Bug Report:
