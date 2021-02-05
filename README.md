@@ -23,6 +23,12 @@ Please disable your anti-virus software before using this tool becuase it might 
 ### limitations/known issues:
 - Issues with some special character's in a file.
 - Can crack only 1 hash at a time(to crack multiple hashes you would need to start another session)/no Multithreading.
+### Changelog:
+##### 22-jan-2021
+- Initial Release.
+##### 5-feb-2021
+- Some small fixes.
+<hr>
 ### Disclaimer:
 i am not responsible for your naughty work!
 ### Bug Report:
