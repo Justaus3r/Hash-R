@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-GPL3.0-<brightgreen>)
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-<brightgreen>)
 ![Status](https://img.shields.io/badge/Status-Alive-<brightgreen>)
-
+### Description 🗨️
 Hash-R is a command line tool that can be used to crack various hashes such as md2,md4,sha1 and much more.
 it can also retrieve sam file.there  is a version of mimikatz to dump hashes from SAM file.
 #### Hashes supported/features:
@@ -17,6 +17,8 @@ it can also retrieve sam file.there  is a version of mimikatz to dump hashes fro
 - NTLM
 - Retrieve sam file from registry.
 - Cool random banner's
+#### Tested Operating system's:
+- Windows's 7 and Window's 10
 #### Screenshot:
 ![screenshot](https://drive.google.com/uc?export=download&id=1Nazpx6g5g50CW8O-ZhuR0PUyLTrEehif)
 ### Note:
