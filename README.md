@@ -34,7 +34,7 @@ Please disable your anti-virus software before using this tool becuase it might 
 | 5-feb-2021    | Some small fixes | 
 
 #### Upcomming update:
-- Will Add a Hash Generator.
+- (Update Date:?)Will Add a Hash Generator.
  
 ### Disclaimer:
 i am not responsible for your naughty work!
