@@ -28,13 +28,14 @@ Please disable your anti-virus software before using this tool becuase it might 
 - Can crack only 1 hash at a time(to crack multiple hashes you would need to start another session)/no Multithreading.
 ### Changelog:
 
-| Date:         | Comment:         | 
-| ------------- |:-------------:   | 
-| 21-jan-2021   | Initial Release  | 
-| 5-feb-2021    | Some small fixes | 
+| Date:         | Comment:                     | 
+| ------------- |:-------------:               | 
+| 21-jan-2021   | Initial Release              | 
+| 5-feb-2021    | Some small fixes             | 
+| 12-feb-2021   |Added a simple Hash generator | 
 
 #### Upcoming update:
-- (Update Date:?)Will Add a Hash Generator.
+- ?.
  
 ### Disclaimer:
 i am not responsible for your naughty work!
