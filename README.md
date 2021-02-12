@@ -15,6 +15,7 @@ it can also retrieve sam file.there  is a version of mimikatz to dump hashes fro
 - SHA384
 - SHA512
 - NTLM
+- A simple Hash Generator
 - Retrieve sam file from registry.
 - Cool random banner's
 #### Tested Operating system's:
