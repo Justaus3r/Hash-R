@@ -35,7 +35,7 @@ Please disable your anti-virus software before using this tool becuase it might 
 | 12-feb-2021   |Added a simple Hash generator | 
 
 #### Upcoming update:
-- ?.
+- Will be adding it as a chocolatey package(if you want to download the under-moderation package,use:```choco install hash-r --version=1.0 ```).
  
 ### Disclaimer:
 i am not responsible for your naughty work!
