@@ -22,10 +22,15 @@ it can also retrieve sam file.there  is a version of mimikatz to dump hashes fro
 - Windows's 7 and Window's 10
 #### Chocolatey support:
 As of March 2021,Hash-R is available as a chocolatey package.you can install it by following command:
+
 ```choco install hash-r ```
+
 to upgrade it:
+
 ```choco upgrade hash-r```
+
 to uninstall it use:
+
 ```choco uninstall hash-r```
 
 #### Screenshot:
