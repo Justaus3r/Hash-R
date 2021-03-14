@@ -59,3 +59,5 @@ Report a issue at https://github.com/Justaus3r/Hash-R/issues
 All contributions are welcomed.if you have an suggestion for improvement you can mail me at x-neron@pm.me. you can fork this repo and pull request's for improvement.
 ### License:
 Distributed under GPL3.0.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Justaus3r)
