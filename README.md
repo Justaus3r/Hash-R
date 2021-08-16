@@ -17,21 +17,9 @@ it can also retrieve sam file.there  is a version of mimikatz to dump hashes fro
 - NTLM
 - A simple Hash Generator
 - Retrieve sam file from registry.
-- Cool random banner's
+- Random banner's
 #### Tested Operating system's:
 - Windows's 7 and Window's 10
-#### Chocolatey support:
-As of March 2021,Hash-R is available as a chocolatey package.you can install it by following command:
-
-```choco install hash-r ```
-
-to upgrade it:
-
-```choco upgrade hash-r```
-
-to uninstall it use:
-
-```choco uninstall hash-r```
 
 #### Screenshot:
 ![screenshot](https://drive.google.com/uc?export=download&id=1Nazpx6g5g50CW8O-ZhuR0PUyLTrEehif)
@@ -40,6 +28,7 @@ Please disable your anti-virus software before using this tool becuase it might 
 ### limitations/known issues:
 - Issues with some special character's in a file.
 - Can crack only 1 hash at a time(to crack multiple hashes you would need to start another session)/no Multithreading.
+
 ### Changelog:
 
 | Date:         | Comment:                        | 
@@ -47,12 +36,12 @@ Please disable your anti-virus software before using this tool becuase it might 
 | 21-jan-2021   | Initial Release                 | 
 | 5-feb-2021    | Some small fixes                | 
 | 12-feb-2021   |Added a simple Hash generator    | 
-| 10-mar-2021   |Approved as a chocolatey package |
 #### Upcoming update:
 - ?
  
 ### Disclaimer:
-i am not responsible for your naughty work!
+This tool is only Developed for Educational purposes.i take no responsibility or liability for the actual use of tool
+
 ### Bug Report:
 Report a issue at https://github.com/Justaus3r/Hash-R/issues
 ### Contributions:
