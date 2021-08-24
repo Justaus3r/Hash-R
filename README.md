@@ -49,4 +49,3 @@ All contributions are welcomed.if you have an suggestion for improvement you can
 ### License:
 Distributed under GPL3.0.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Justaus3r)
